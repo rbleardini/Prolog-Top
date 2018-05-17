@@ -70,6 +70,10 @@ fezparte(vava, selecao).
 fezparte(bellini, selecao).
 fezparte(bebeto, selecao).
 fezparte(rivaldo, selecao).
+fezparte(cafu, selecao).
+fezparte(kaka, selecao).
+fezparte(pele, selecao).
+fezparte(neymar, selecao).
 
 # fazer regra pra ver se ta entre um e outro
 fornecedor(athleta, 1954).
